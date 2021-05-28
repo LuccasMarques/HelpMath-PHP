@@ -1,0 +1,155 @@
+.bordapreta{
+    border-bottom: 7px solid whitesmoke;
+}
+
+.fundovermelho{
+    background-color: #E30909;
+    padding: 15px
+}
+
+.centro{
+    text-align: center;
+}
+
+.direita{
+    text-align: right;
+}
+
+.barraexp{
+    margin-top: 4%;
+}
+
+.entrar{
+    color: #fff;
+    background-color: #E30909;
+}
+
+.entrar:hover{
+    background-color:  #DB0808;
+
+}
+
+.textologin{
+    text-align: justify;
+}
+
+.fundoindex{
+
+    background-color: #E8E8E8;
+    
+    padding: 15px;
+    border-radius: 20px;  
+    margin-top: 20px;   
+}
+
+.fundofooter{
+    
+        background-color: #E8E8E8;
+        
+        padding: 15px;
+        border-radius: 20px 20px 0px 0px;  
+        margin-top: 20px;   
+    }
+    
+
+.fundogeral{
+    background-color: #B3B3B3;
+
+}
+
+.fraseOla{
+    text-align: center;
+    font-size: 50px;
+}
+
+.textoIntroducao{
+    text-align: justify;
+    font-size: 20px;
+}
+
+.imagemIntroducao{
+    margin-left:3%;
+    width:40%;
+}
+
+.tituloimagem{
+    margin-left:5%;
+}
+
+.imagemateria{  
+    width: 60%;
+    height: 13%;
+
+}
+
+.imagemusuario{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.imagemlogo{
+    width: 50%
+    
+}
+
+@media (max-width: 768px) {
+    .imagemlogo{
+        width:30%;
+    }
+  }
+
+@media (max-width: 450px) {
+    .imagemlogo {
+      width:40%;
+    }
+  }
+
+  body {
+    margin-bottom:50px;
+}
+
+.footer {
+    position: fixed;
+    height: 50px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+}
+
+.textdrive{
+    font-weight: 700
+}
+.textoerror{
+    text-decoration-color: rgb(255, 0, 0)
+}
+
+.textousuario{
+    font-family: 'Times New Roman';
+    font-size: 30px;
+}
+
+
+.textindex{
+    font-family: 'Times New Roman';
+    font-size: 18px;
+}
+
+.fundologin{
+    background-color: #E8E8E8;
+    
+    border: 1px solid rgb(145, 145, 145);
+    border-radius: 5px 5px 5px 5px;
+    margin-top: 5px;
+}
+
+.titulotext{
+    text-decoration-color: rgb(80, 165, 0);
+
+}
+
+.gif{
+    width:100px;
+    height:100px;
+}
